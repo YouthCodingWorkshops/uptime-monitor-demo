@@ -1,5 +1,5 @@
 
-# Welcome to your CDK Python project!
+# Uptime Monitor Meeting Demo
 
 This is a blank project for Python development with CDK.
 

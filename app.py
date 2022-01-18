@@ -3,7 +3,7 @@ import os
 
 import aws_cdk as cdk
 
-from infrastructure.uptime_monitor_demo_stack import UptimeMonitorDemoStack
+from infrastructure.uptime_monitor_demo import UptimeMonitorDemoStack
 
 
 app = cdk.App()
